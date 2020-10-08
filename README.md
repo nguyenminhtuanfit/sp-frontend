@@ -1,5 +1,5 @@
 Build
-### `npm start`
+### `npm install`
 Run
 ### `npm start`
 Review
