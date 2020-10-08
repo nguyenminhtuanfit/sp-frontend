@@ -1,3 +1,6 @@
-To start this project
+Build
 ### `npm start`
-Then open http://localhost:3000
+Run
+### `npm start`
+Review
+### `http://localhost:3000`
